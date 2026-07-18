@@ -32,6 +32,10 @@
   --color-icon-surface:   rgba(255,255,255,0.07);
   --color-icon-ring:      rgba(255,255,255,0.14);
 
+  /* Barrierefreiheits-Widget-Trigger — kontrast-adaptiv (WCAG Non-text ≥3:1 vs pageBg) */
+  --color-a11y-trigger:      #FFFFFF;
+  --color-a11y-trigger-text: #000000;
+
   --font-sans: var(--font-geist-sans);
 }
 
