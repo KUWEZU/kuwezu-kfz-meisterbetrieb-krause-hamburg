@@ -1,6 +1,6 @@
 /**
  * client.ts — Automatisch generiert von KUWEZU
- * Erstellt: 2026-07-18T19:07:09.349Z
+ * Erstellt: 2026-07-18T22:19:15.239Z
  * Kundennummer: 216
  *
  * Alle Texte, Bilder und Einstellungen werden hier gepflegt.
@@ -28,7 +28,7 @@ export const client = {
   },
   // ── Hero ───────────────────────────────────────────────────────────────────
   hero: {
-    bild: "https://images.pexels.com/photos/2244746/pexels-photo-2244746.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    bild: "https://r2.kuwezu.de/kunden/216/stock-d44pkc.jpg",
     overlayOpacity: 0.55, /* fix — nie schwächer, nie überschreibbar */
     ueberschrift: "Kfz-Werkstatt — professionell & zuverlässig",
     ueberschriftHighlight: "professionell & zuverlässig",
@@ -39,7 +39,7 @@ export const client = {
 
   // ── Über uns ───────────────────────────────────────────────────────────────
   ueberUns: {
-    bild: "https://images.pexels.com/photos/3807386/pexels-photo-3807386.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    bild: "https://r2.kuwezu.de/kunden/216/stock-69z1x4.jpg",
     ueberschrift: "KFZ-Meisterbetrieb Krause — Ihr Partner in Hamburg",
     text1: "Als erfahrener Kfz-Werkstatt-Betrieb in Hamburg bieten wir unseren Kunden seit Jahren zuverlässigen Service und kompetente Beratung. Mit Fachkompetenz und modernen Methoden lösen wir Ihre Anliegen effizient und zuverlässig.",
     text2: "Wir setzen auf höchste Qualität, transparente Preise und persönlichen Service — damit Sie rundum zufrieden sind.",
